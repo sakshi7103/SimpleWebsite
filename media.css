@@ -1,0 +1,38 @@
+@media (min-width: 100px) { 
+  .clon img{
+    width: 200px;
+  }
+.about-portrait{
+  width: 350px;
+  margin-bottom: 200px;
+}
+ }
+@media (min-width: 576px) { 
+  .clon img{
+    width: 300px;
+  }
+
+.about-portrait{
+  width: 350px;
+  margin-bottom: 200px;
+}
+ }
+
+/* / Medium devices (tablets, 768px and up) */
+
+@media (min-width: 768px) {
+.clon img{
+  width: 400px;
+}
+.about-portrait{
+  width: 450px;
+  margin-bottom: 350px;
+}
+  }
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+.clon{
+  width: 700px;
+}
+ }
+/* // X-Large devices (large desktops, 1200px and up) */
